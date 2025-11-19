@@ -1,0 +1,5 @@
+
+body { font-family: Arial; background:#fff; color:#003366; text-align:center; padding:20px; }
+.container { margin-bottom:20px; }
+select, button { padding:8px; margin:5px; }
+canvas { border:1px solid #003366; margin-top:20px; }
